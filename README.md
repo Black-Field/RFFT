@@ -17,9 +17,9 @@
 
   Pythonのバージョンと使用したライブラリを以下に示す。
   > Python : 3.7.3
-  >> opencv-python==4.1.0.25
-  >> numpy==1.16.4
-  >> matplotlib==3.1.1
+  >> opencv-python==4.1.0.25  
+  >> numpy==1.16.4  
+  >> matplotlib==3.1.1  
   
   MacBook Air (13-inch, Early 2015)で動作確認を行った。機能面、特に速度はいまいちであるがデモとしては十分な性能を持つ。OpenCVのdftのライブラリーを使用したが、連続モード時、マウスの速度についていけないので、ゆっくりとマウスを動かして上げる必要がある。
 
@@ -36,7 +36,7 @@
 
 ## Install
 
-  このRepositoriesをダウンロードして、コンソールからこのプログラム(RFFT.py)を実行してください。
+  このRepositorieをダウンロードして、コンソールからこのプログラム(RFFT.py)を実行してください。
 
 ## References
 
